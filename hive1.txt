@@ -100,6 +100,4 @@ create table employee_map_data
 
 
 
-# Assignment Dataset
 
-https://www.kaggle.com/datasets/imdevskp/corona-virus-report
