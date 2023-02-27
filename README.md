@@ -8,7 +8,7 @@ Data types in hive
 In Hive, the following are the data types that are supported:
 
     Numeric types:
-        * TINYINT: 1-byte signed integer (-128 to 127)
+        TINYINT: 1-byte signed integer (-128 to 127)
         SMALLINT: 2-byte signed integer (-32,768 to 32,767)
         INT: 4-byte signed integer (-2,147,483,648 to 2,147,483,647)
         BIGINT: 8-byte signed integer (-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807)
